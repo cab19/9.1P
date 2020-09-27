@@ -3,7 +3,7 @@ import NewsLetter from './NewsLetter'
 import SocialLinks from './SocialLinks'
 
 const Footer = () => (
-    <div style={{textAlign: 'center', margin: '20px', clear: 'both'}}>
+    <div className="footer">
         <NewsLetter />
         <SocialLinks />
     </div>
