@@ -1,0 +1,15 @@
+input{
+    margin: 20px;
+}
+
+.news-block{
+    background: aqua;
+    padding: 15px;
+    margin-right: 20px;
+}
+
+.social-icons{
+    height: 25px !important;
+    width: 25px !important;
+    margin: 5px;
+}
